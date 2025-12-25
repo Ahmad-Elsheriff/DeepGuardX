@@ -1,0 +1,19 @@
+The text discusses setting up a Local Area Network (LAN) for a fictional company called Proseware, Inc., which needs a fast and efficient network to serve approximately 20 users. The network engineer's task is to select the right equipment, ensure compatibility, and install it on time. The lesson covers the basics of LANs, including:
+
+* Defining a LAN as two or more computers exchanging data
+* Requirements for setting up a LAN: computers with network adapters, central connecting devices (e.g., switches), and a numbering scheme (IP addresses)
+* Optional components: servers, firewalls, and connections to perimeter networks
+
+The text also emphasizes the importance of understanding technologies such as Ethernet and switching in designing and implementing the network. The goal is to create a cost-effective layout that balances speed and efficiency.
+
+In summary, the lesson aims to provide a solid foundation for installing a LAN, including defining what a LAN is, its components, and how they work together to transfer data. The text discusses setting up a Local Area Network (LAN) for Proseware, Inc., a company that wants to implement a new LAN in their brand-new office serving approximately 20 users. The goal is to create a fast and efficient network that can transfer various types of data while being cost-effective.
+
+A LAN is defined as two or more computers exchanging data within a small geographic area, usually one building. To set up a LAN, you need:
+
+1. Computers with network adapters
+2. Central connecting devices (e.g., switches)
+3. A numbering scheme (e.g., IP addresses) to differentiate computers
+
+The text also mentions that a LAN can include servers, firewalls, and connections to perimeter networks.
+
+The objective is to define how the components are connected and how data is transmitted between them.

@@ -1,0 +1,38 @@
+[
+  {
+    "role": "user",
+    "content": "What is LAN ?"
+  },
+  {
+    "role": "assistant",
+    "content": "According to the retrieved context from Networking Fundamentals -1--.pdf, Page: 1, a Local Area Network (LAN) is defined as \"a group of computers that are confined to a small geographic area, usually one building.\" This is stated on page 2 of the document. \n\nSo, the answer to your question is:\n\nA local area network (LAN) is a group of computers that are confined to a small geographic area, usually one building.",
+    "sources": [
+      {
+        "source": "Networking Fundamentals -1--.pdf",
+        "page": 1
+      },
+      {
+        "source": "Networking Fundamentals -1--.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "What is WAN ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't know. The context only talks about Local Area Networks (LAN), but it doesn't mention Wide Area Networks (WAN). It seems that this topic has not been covered in the given context.",
+    "sources": [
+      {
+        "source": "Networking Fundamentals -1--.pdf",
+        "page": 1
+      },
+      {
+        "source": "Networking Fundamentals -1--.pdf",
+        "page": 1
+      }
+    ]
+  }
+]
